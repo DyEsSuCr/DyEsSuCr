@@ -1,3 +1,5 @@
+# 💫 About Me:
+I am a passionate web developer committed to delivering innovative and high-quality solutions. I quickly adapt to new challenges and constantly seek to improve my skills to achieve exceptional results. Valuing teamwork, I focus on efficiency and collaboration to succeed in every project.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dyessucr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dyessucr) 
