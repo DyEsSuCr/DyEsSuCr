@@ -1,8 +1,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=dark" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=dark" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dyessucr&&show_icons=true&theme=dark" height="150" alt="stats graph"  />
 </div>
 
 ###
