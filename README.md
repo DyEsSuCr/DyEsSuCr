@@ -11,5 +11,6 @@ I am a passionate web developer committed to delivering innovative and high-qual
 <!-- ![](https://github-readme-stats.vercel.app/api?username=dyessucr&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dyessucr&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dyessucr&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dyessucr&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
