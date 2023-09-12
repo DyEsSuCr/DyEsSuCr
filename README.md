@@ -6,20 +6,17 @@ I am a passionate web developer committed to delivering innovative and high-qual
 const dyessucr = {
   code: ["Javascript", "Typescript", "Python"],
   frameworks: ["React", "Django", "FastAPI", "Next", "Vue", "Tailwind", "Bootstrap"],
-  databses: ["MariaDB", "MySQL", "PostgreSQL", "MongoDB", "sqlite", "Redis"],
+  databases: ["MariaDB", "MySQL", "PostgreSQL", "MongoDB", "Redis", "SQlite"],
   architecture: ["Design System Pattern"],
   preprocessor: ["SASS", "LESS"],
   tools: ["Figma", "GraphQL". "Linux"]
 }
 ```
 
-# 🏆 Trophies
+### 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dyessucr&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-# 📊 Stats:
+### 📊 Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=dyessucr&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dyessucr&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dyessucr&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dyessucr&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
