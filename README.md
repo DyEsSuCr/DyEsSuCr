@@ -6,9 +6,9 @@ Valuing teamwork 🤝, I focus on efficiency and collaboration to succeed in eve
 
 ### A little more about me...
 ```javascript
-const dyessucr = {
+const DylanSuarez = {
   code: ["Javascript", "Typescript", "Python"],
-  frameworks: ["React", "Django", "FastAPI", "Next", "Vue", "Tailwind", "Bootstrap"],
+  frameworks: ["React", "Django", "FastAPI", "Next", "Nuxt" "Vue", "Tailwind", "Bootstrap"],
   databases: ["MariaDB", "MySQL", "PostgreSQL", "MongoDB", "Redis", "SQlite"],
   architecture: ["Design System Pattern"],
   preprocessor: ["SASS", "LESS"],
