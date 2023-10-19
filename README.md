@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me:
-A passionate web developer committed to delivering innovative and high-quality solutions.
+A passionate software developer committed to delivering innovative and high-quality solutions.
 
 I quickly adapt to new challenges and constantly seek to improve my skills to achieve exceptional results.
 Valuing teamwork 🤝, I focus on efficiency and collaboration to succeed in every project ✅.
