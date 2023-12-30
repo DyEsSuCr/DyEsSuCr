@@ -12,7 +12,7 @@ const DylanSuarez = {
   databases: ["MariaDB", "MySQL", "PostgreSQL", "MongoDB", "Redis", "SQlite"],
   architecture: ["Design System Pattern"],
   preprocessor: ["SASS", "LESS"],
-  tools: ["Figma", "GraphQL". "Linux", "Sockets", "Docker", "AWS", "Azure"]
+  tools: ["Figma", "GraphQL". "Linux", "Sockets", "Docker"]
 }
 ```
 <!-- 
