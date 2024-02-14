@@ -1,8 +1,9 @@
 ## 👨‍💻 About Me:
-A passionate software developer committed to delivering innovative and high-quality solutions.
+A dedicated software developer with a keen interest in Deep Learning and Artificial Intelligence 🤖.
 
-I quickly adapt to new challenges and constantly seek to improve my skills to achieve exceptional results.
-Valuing teamwork 🤝, I focus on efficiency and collaboration to succeed in every project ✅.
+Proficient in Python, TypeScript, and JavaScript, I focus on implementing advanced techniques to optimize website performance and create innovative solutions.
+
+As a collaborative team member, I prioritize efficiency and cooperation for project success. Actively seeking international opportunities to contribute to innovation and make a positive impact.
 
 ### A little more about me...
 ```javascript
