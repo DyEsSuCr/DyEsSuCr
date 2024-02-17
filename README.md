@@ -8,11 +8,13 @@ As a collaborative team member, I prioritize efficiency and cooperation for proj
 ### A little more about me...
 ```javascript
 const DylanSuarez = {
-  code: ["Javascript", "Typescript", "Python"],
-  frameworks: ["React", "Django", "FastAPI", "Next", "Nuxt" "Vue", "Tailwind", "Bootstrap"],
+  languages: ["Javascript", "Typescript", "Python"],
+  frameworks: {
+    frontend: ["React", "Next", "Nuxt", "Vue"],
+    backend: ["NodeJS", "ExpressJS", "Django", "FastAPI", "NestJS"]
+  },
   databases: ["MariaDB", "MySQL", "PostgreSQL", "MongoDB", "Redis", "SQlite"],
   architecture: ["Design System Pattern"],
-  preprocessor: ["SASS", "LESS"],
   tools: ["Figma", "GraphQL". "Linux", "Sockets", "Docker"]
 }
 ```
