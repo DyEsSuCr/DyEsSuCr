@@ -14,7 +14,6 @@ As a collaborative team player, I prioritize efficiency and foster cooperation f
 ### A little more about me...
 ```javascript
 const DylanSuarez = {
-  languages: ["JavaScript", "TypeScript", "Python"],
   frameworks: {
     frontend: ["React", "Next", "Nuxt", "Vue"],
     backend: ["NodeJS", "ExpressJS", "Django", "FastAPI", "NestJS"]
