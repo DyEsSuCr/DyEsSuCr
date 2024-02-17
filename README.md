@@ -1,29 +1,30 @@
+<div>
+  <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="300" height="200" style="float: right;">
+  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="300" height="200" style="float: left;">
+</div>
+
+
 ## 👨‍💻 About Me:
-A dedicated software developer with a keen interest in Deep Learning and Artificial Intelligence 🤖.
+Passionate software developer with a profound interest in the realms of Deep Learning and Artificial Intelligence 🤖.
 
-Proficient in Python, TypeScript, and JavaScript, I focus on implementing advanced techniques to optimize website performance and create innovative solutions.
+Proficient in Python, TypeScript, and JavaScript, I specialize in implementing cutting-edge techniques to enhance website performance and devise innovative solutions.
 
-As a collaborative team member, I prioritize efficiency and cooperation for project success. Actively seeking international opportunities to contribute to innovation and make a positive impact.
+As a collaborative team player, I prioritize efficiency and foster cooperation for project success. Actively exploring international opportunities to contribute to innovation and make a positive impact.
 
 ### A little more about me...
 ```javascript
 const DylanSuarez = {
-  languages: ["Javascript", "Typescript", "Python"],
+  languages: ["JavaScript", "TypeScript", "Python"],
   frameworks: {
     frontend: ["React", "Next", "Nuxt", "Vue"],
     backend: ["NodeJS", "ExpressJS", "Django", "FastAPI", "NestJS"]
   },
-  databases: ["MariaDB", "MySQL", "PostgreSQL", "MongoDB", "Redis", "SQlite"],
+  databases: ["MariaDB", "MySQL", "PostgreSQL", "MongoDB", "Redis", "SQLite"],
   architecture: ["Design System Pattern"],
-  tools: ["Figma", "GraphQL". "Linux", "Sockets", "Docker"]
+  tools: ["Figma", "GraphQL", "Linux", "Sockets", "Docker"],
+  hobbies: ["AI Experiments", "Open Source Contributions"],
+  funFact: "I believe in the power of community-driven development and continuous learning!"
 }
 ```
-<!-- 
-### 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=dyessucr&theme=discord&no-frame=true&no-bg=true&margin-w=4)
--->
 
-<!-- ### 📊 Stats: -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=dyessucr&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dyessucr&theme=react&hide_border=true)<br/> -->
-<!-- ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dyessucr&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
+### Feel free to connect and explore the world of code with me! 🚀
