@@ -12,7 +12,7 @@ Recognized for prioritizing efficiency and fostering collaboration within the te
 
 ### A little more about me...
 ```javascript
-const DylanSuarez = {
+const DyEsSuCr = {
   frameworks: {
     frontend: ["React", "Next", "Nuxt", "Vue"],
     backend: ["NodeJS", "ExpressJS", "Django", "FastAPI", "NestJS"]
