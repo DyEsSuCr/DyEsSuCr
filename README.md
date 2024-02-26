@@ -1,4 +1,8 @@
-# <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="100" height="80"> Bienvenid@
+# Bienvenid@
+<div>
+  <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="300" height="200">
+  <img src="https://media.giphy.com/media/fb8maSaKTj3WVy2gFQ/giphy.gif" width="300" height="200"> 
+</div>
 
 
 ## 👨‍💻 About Me:
