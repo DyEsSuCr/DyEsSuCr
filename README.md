@@ -1,7 +1,4 @@
-<div>
-  <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="300" height="200">
-<!--   <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="300" height="200"> -->
-</div>
+# <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="100" height="80"> Bienvenid@
 
 
 ## 👨‍💻 About Me:
@@ -25,4 +22,7 @@ const DyEsSuCr = {
 }
 ```
 
-### Feel free to connect and explore the world of code with me! 🚀
+### 👨‍💻 Stats:
+![DyEsSuCr' GitHub stats](https://github-readme-stats.vercel.app/api?username=dyessucr&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyessucr&layout=compact&theme=tokyonight)
+
+## 🚀 Feel free to connect and explore the world of code with me! 🚀
