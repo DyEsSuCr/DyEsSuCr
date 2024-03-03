@@ -5,7 +5,7 @@
 </div>
 
 
-## 👨‍💻 About Me:
+## 👨‍💻 A Little About Me:
 A passionate and dedicated software developer with a profound interest in the realms of Deep Learning and Artificial Intelligence 🤖. Proficient in Python, TypeScript, and JavaScript, I specialize in implementing cutting-edge techniques to optimize website performance and create innovative solutions.
 
 Recognized for prioritizing efficiency and fostering collaboration within the team, I actively contribute to project success. As a collaborative team player, I am actively seeking international opportunities to further contribute to innovation and make a positive impact.
