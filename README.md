@@ -14,9 +14,14 @@ Recognized for prioritizing efficiency and fostering collaboration within the te
 ### A little more about me...
 ```javascript
 const DyEsSuCr = {
+  languages: [
+    'Python',
+    'JavaScript',
+    'TypeScript'
+  ],
   frameworks: {
-    frontend: ["React", "Next", "Nuxt", "Vue"],
-    backend: ["NodeJS", "ExpressJS", "Django", "FastAPI", "NestJS"]
+    backend: ["FastAPI", "Django", "ExpressJS", "NodeJS", "NestJS"],
+    frontend: ["React", "Next", "Nuxt", "Vue"]
   },
   databases: ["MariaDB", "MySQL", "PostgreSQL", "MongoDB", "Redis", "SQLite"],
   architecture: ["Design System Pattern"],
