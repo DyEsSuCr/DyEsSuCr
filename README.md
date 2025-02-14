@@ -1,7 +1,7 @@
 ## Welcome 👋
 <div>
-  <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="300" height="200">
-  <img src="https://media.giphy.com/media/fb8maSaKTj3WVy2gFQ/giphy.gif" width="300" height="200"> 
+<!--   <img src="https://media.giphy.com/media/IKenQuidh8cPpdxqB0/giphy.gif" width="300" height="300"> -->
+  <img src="https://media.giphy.com/media/KXteHUB0FzCVMqIZg9/giphy.gif" width="240" height="200">
 </div>
 
 
