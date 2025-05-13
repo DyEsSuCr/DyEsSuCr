@@ -30,6 +30,3 @@ const DyEsSuCr = {
   funFact: "I believe in the power of community-driven development and continuous learning!"
 }
 ```
-
-### 🤯 Stats:
-# ![DyEsSuCr' GitHub stats](https://github-readme-stats.vercel.app/api?username=dyessucr&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyessucr&layout=compact&theme=tokyonight)
