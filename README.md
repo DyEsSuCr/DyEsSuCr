@@ -32,4 +32,4 @@ const DyEsSuCr = {
 ```
 
 ### 🤯 Stats:
-![DyEsSuCr' GitHub stats](https://github-readme-stats.vercel.app/api?username=dyessucr&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyessucr&layout=compact&theme=tokyonight)
+# ![DyEsSuCr' GitHub stats](https://github-readme-stats.vercel.app/api?username=dyessucr&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyessucr&layout=compact&theme=tokyonight)
